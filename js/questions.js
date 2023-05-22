@@ -29,10 +29,34 @@ let questions = [
     answer: "Brazil",
     options: ["Portugal", "Brazil", "France", "Argentina"],
   },
-  {
+    {
     numb: 6,
-    question: "Which country below has won the most World Cups?",
-    answer: "Brazil",
-    options: ["Portugal", "Brazil", "France", "Argentina"],
+    question: "Who was the Ancient Greek God of the Sun?",
+    answer: "Apolo",
+    options: ["Poseidon", "Apolo", "Zeus", "Athena"],
   },
+    {
+    numb: 7,
+    question: "How many elements are in the periodic table? ",
+    answer: "118",
+    options: ["119", "117", "116", "118"],
+  },
+    {
+    numb: 8,
+    question: "Which planet has the most moons?",
+    answer: "Saturn",
+    options: ["Saturn", "Jupiter", "Neptune", "Uranus"],
+  },
+    {
+    numb: 9,
+    question: "How many bones do we have in an ear?",
+    answer: "3",
+    options: ["1", "4", "3", "2"],
+  },
+    {
+    numb: 10,
+    question: "How many ghosts chase Pac-Man at the start of each game?",
+    answer: "4",
+    options: ["3", "4", "1", "2"],
+  }
 ];
